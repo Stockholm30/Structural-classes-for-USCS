@@ -1,0 +1,5 @@
+hub NameOfTheHub
+shortLabel ShortNameOfTheHub
+longLabel LongNameOfTheHub
+genomesFile genomes.txt
+email YourEmail
