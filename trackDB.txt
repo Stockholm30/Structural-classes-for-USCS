@@ -1,0 +1,5 @@
+track trackName
+type bigBed
+bigDataUrl track_sorted.bb
+shortLabel shortTrackName
+longLabel longTrackName
