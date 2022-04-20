@@ -1,1 +1,5 @@
-
+hub Str_Anno
+shortLabel Str_annotaion
+longLabel LongNameOfTheHub
+genomesFile genomes.txt
+email YourEmail
