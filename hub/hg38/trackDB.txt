@@ -1,0 +1,8 @@
+track Annotaion
+parent RINclass
+bigDataUrl all_classes.bb
+shortLabel classes
+longLabel classes
+type bigBed
+visibility 2
+itemRgb on
