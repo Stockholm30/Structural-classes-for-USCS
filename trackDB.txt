@@ -1,5 +1,5 @@
 track trackName
 type bigBed
-bigDataUrl https://kodomo.fbb.msu.ru/~kirill/term7/prac10/sonya/allClasses.bb
+bigDataUrl https://github.com/Stockholm30/Structural-classes-for-USCS/blob/main/all_classes.bb
 shortLabel shortTrackName
 longLabel longTrackName
