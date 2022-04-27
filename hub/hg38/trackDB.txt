@@ -84,15 +84,26 @@ visibility 1
 itemRgb on
 color 152,78,163
 
-track Peptide
+track Double
 parent RINclass
-bigDataUrl Peptide.bb
-shortLabel Peptide
-longLabel Peptide
+bigDataUrl Double.bb
+shortLabel Double
+longLabel Double
 type bigBed
 visibility 1
 itemRgb on
 color 166,118,29
+
+track Triple
+parent RINclass
+bigDataUrl Triple.bb
+shortLabel Triple
+longLabel Triple
+type bigBed
+visibility 1
+itemRgb on
+color 0, 0, 255
+
 
 track RNA
 parent RINclass
