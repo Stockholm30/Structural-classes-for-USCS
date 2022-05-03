@@ -104,3 +104,103 @@ type bigBed
 visibility 1
 itemRgb on
 color 247,129,191
+
+track Core2
+parent RINclass
+bigDataUrl Core2.bb
+shortLabel Core2
+longLabel Core
+type bigBed
+visibility 1
+itemRgb on
+color 228,33,28
+
+track DNA2
+parent RINclass
+bigDataUrl DNA2.bb
+shortLabel DNA2
+longLabel DNA
+type bigBed
+visibility 1
+itemRgb on
+color 77,175,74
+
+track Ligand2
+parent RINclass
+bigDataUrl Ligand2.bb
+shortLabel Ligand2
+longLabel Ligand
+type bigBed
+visibility 1
+itemRgb on
+color 255,127,0
+
+track Metal2
+parent RINclass
+bigDataUrl Metal2.bb
+shortLabel Metal2
+longLabel Metal
+type bigBed
+visibility 1
+itemRgb on
+color 255,217,47
+
+track Protein2
+parent RINclass
+bigDataUrl Protein2.bb
+shortLabel Protein2
+longLabel Protein
+type bigBed
+visibility 1
+itemRgb on
+color 166,86,41
+
+track Surface2
+parent RINclass
+bigDataUrl Surface2.bb
+shortLabel Surface2
+longLabel Surface
+type bigBed
+visibility 1
+itemRgb on
+color 102,102,102
+
+track Disorder2
+parent RINclass
+bigDataUrl Disorder2.bb
+shortLabel Disorder2
+longLabel Disorder
+type bigBed
+visibility 1
+itemRgb on
+color 55,126,184
+
+track Ion2
+parent RINclass
+bigDataUrl Ion2.bb
+shortLabel Ion2
+longLabel Ion
+type bigBed
+visibility 1
+itemRgb on
+color 152,78,163
+
+track Peptide2
+parent RINclass
+bigDataUrl Peptide2.bb
+shortLabel Peptide2
+longLabel Peptide
+type bigBed
+visibility 1
+itemRgb on
+color 0, 0, 255
+
+track RNA2
+parent RINclass
+bigDataUrl RNA2.bb
+shortLabel RNA2
+longLabel RNA
+type bigBed
+visibility 1
+itemRgb on
+color 247,129,191
