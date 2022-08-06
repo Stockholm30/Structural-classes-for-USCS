@@ -155,10 +155,10 @@ visibility 1
 itemRgb on
 color 166,86,41
 
-track Surface_new
+track Surface_aug
 parent RINclass
 bigDataUrl Surface_aug.bb
-shortLabel Surface_new
+shortLabel Surface_aug
 longLabel Surface
 type bigBed
 visibility 1
