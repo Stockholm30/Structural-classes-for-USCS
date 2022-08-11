@@ -6,7 +6,7 @@ longLabel Structural annotation by RIN class
 
 track Core
 parent RINclass
-bigDataUrl Core.bb
+bigDataUrl Core_aug.bb
 shortLabel Core
 longLabel Core
 type bigBed
