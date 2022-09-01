@@ -195,6 +195,16 @@ visibility 1
 itemRgb on
 color 0, 0, 255
 
+track Buried2
+parent RINclass
+bigDataUrl Buried_aug.bb
+shortLabel Buried_aug
+longLabel Buried
+type bigBed
+visibility 1
+itemRgb on
+color 255, 69, 0
+
 track RNA2
 parent RINclass
 bigDataUrl rna_aug.bb
