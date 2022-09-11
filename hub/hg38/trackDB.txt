@@ -14,9 +14,29 @@ visibility 1
 itemRgb on
 color 228,33,28
 
+track Core_no_iso
+parent RINclass
+bigDataUrl core_no_iso.bb
+shortLabel Core
+longLabel Core
+type bigBed
+visibility 1
+itemRgb on
+color 228,33,28
+
 track DNA
 parent RINclass
 bigDataUrl DNA.bb
+shortLabel DNA
+longLabel DNA
+type bigBed
+visibility 1
+itemRgb on
+color 77,175,74
+
+track DNA_no_iso
+parent RINclass
+bigDataUrl dna_no_iso.bb
 shortLabel DNA
 longLabel DNA
 type bigBed
@@ -34,9 +54,29 @@ visibility 1
 itemRgb on
 color 255,127,0
 
+track Ligand_no_iso
+parent RINclass
+bigDataUrl ligand_no_iso.bb
+shortLabel Ligand
+longLabel Ligand
+type bigBed
+visibility 1
+itemRgb on
+color 255,127,0
+
 track Metal
 parent RINclass
 bigDataUrl Metal.bb
+shortLabel Metal
+longLabel Metal
+type bigBed
+visibility 1
+itemRgb on
+color 255,217,47
+
+track Metal_no_iso
+parent RINclass
+bigDataUrl metal_no_iso.bb
 shortLabel Metal
 longLabel Metal
 type bigBed
@@ -54,9 +94,29 @@ visibility 1
 itemRgb on
 color 166,86,41
 
+track Protein_no_iso
+parent RINclass
+bigDataUrl protein_no_iso.bb
+shortLabel Protein
+longLabel Protein
+type bigBed
+visibility 1
+itemRgb on
+color 166,86,41
+
 track Surface
 parent RINclass
 bigDataUrl Surface.bb
+shortLabel Surface
+longLabel Surface
+type bigBed
+visibility 1
+itemRgb on
+color 102,102,102
+
+track Surface_no_iso
+parent RINclass
+bigDataUrl surface_no_iso.bb
 shortLabel Surface
 longLabel Surface
 type bigBed
@@ -74,9 +134,29 @@ visibility 1
 itemRgb on
 color 55,126,184
 
+track Disorder_no_iso
+parent RINclass
+bigDataUrl disorder_no_iso.bb
+shortLabel Disorder
+longLabel Disorder
+type bigBed
+visibility 1
+itemRgb on
+color 55,126,184
+
 track Ion
 parent RINclass
 bigDataUrl Ion.bb
+shortLabel Ion
+longLabel Ion
+type bigBed
+visibility 1
+itemRgb on
+color 152,78,163
+
+track Ion_no_iso
+parent RINclass
+bigDataUrl ion_no_iso.bb
 shortLabel Ion
 longLabel Ion
 type bigBed
@@ -94,10 +174,30 @@ visibility 1
 itemRgb on
 color 0, 0, 255
 
+track Peptide_no_iso
+parent RINclass
+bigDataUrl peptide_no_iso.bb
+shortLabel Peptide
+longLabel Peptide
+type bigBed
+visibility 1
+itemRgb on
+color 0, 0, 255
+
 
 track RNA
 parent RINclass
 bigDataUrl RNA.bb
+shortLabel RNA
+longLabel RNA
+type bigBed
+visibility 1
+itemRgb on
+color 247,129,191
+
+track RNA_no_iso
+parent RINclass
+bigDataUrl rna_no_iso.bb
 shortLabel RNA
 longLabel RNA
 type bigBed
@@ -198,6 +298,16 @@ color 0, 0, 255
 track Buried2
 parent RINclass
 bigDataUrl Buried_aug.bb
+shortLabel Buried_aug
+longLabel Buried
+type bigBed
+visibility 1
+itemRgb on
+color 255, 69, 0
+
+track Buried_no_iso
+parent RINclass
+bigDataUrl buried_no_iso.bb
 shortLabel Buried_aug
 longLabel Buried
 type bigBed
