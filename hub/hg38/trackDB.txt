@@ -18,7 +18,7 @@ track Core_no_iso
 parent RINclass
 bigDataUrl core_no_iso.bb
 shortLabel core_no_iso
-longLabel Core
+longLabel core_no_iso
 type bigBed
 visibility 1
 itemRgb on
