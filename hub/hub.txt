@@ -1,5 +1,5 @@
 hub Str_Anno
 shortLabel Str_annotaion
-longLabel Structural annotation of proteins
+longLabel Structural_annotation_of_proteins
 genomesFile genomes.txt
 email YourEmail
